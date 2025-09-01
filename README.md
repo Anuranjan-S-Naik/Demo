@@ -1,4 +1,4 @@
 # Demo
 First Github Repo
 <br>
-Author - Anuranjan S N 
+Author - Anuranjan S Naik
